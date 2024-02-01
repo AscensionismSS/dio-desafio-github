@@ -62,16 +62,24 @@ Imagino que você já tenha feito seu login, agora para criar seu primeiro repos
 
 
 Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções:<br>
+<br>
 Repository name/Nome do repositório: Aqui daremos um nome para nosso projeto.<br>
+<br>
 Description/Descrição: Uma breve descrição sobre o projeto.<br>
+<br>
 Public/Publíco ou Private/Privado: vamos escolher se ele será público ou não, no caso escolhi público para todo mundo pode ver, mas apenas eu ou quem eu escolher pode alterá-lo.<br>
+<br>
 Readme File/Arquivo Leia-me, aqui que você pode escrever uma longa descrição para o seu projeto com detalhes e tudo mais.<br>
+<br>
 Agora finalizamos clicando em Create repository/Criar Repositório:<br>
+<br>
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/6c465db5-e955-46da-8059-421d149f1fe7)<br>
+<br>
 
 
 Chagamos, finalmente a vez do Git:<br>
+<br>
 
 
 
