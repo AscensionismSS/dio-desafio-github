@@ -11,7 +11,7 @@ Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenv
 
 Imagens referências utilizando a versão: <strong>Windows 11</strong>.<br>
 <br>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Primeiro passo**:<br>
 <br>
@@ -28,7 +28,7 @@ após isso de um nome a sua pasta:<br>
 <br>
 <br>
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <strong>Segundo passo</strong>: <br>
@@ -63,7 +63,7 @@ finalizando o download, é só concluir com a instalação.
 <br>
 <br>
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <strong>Terceiro Passo</strong>: <br>
 <br>
@@ -96,9 +96,9 @@ Public/Publíco ou Private/Privado: vamos escolher se ele será público ou não
 Readme File/Arquivo Leia-me, aqui que você pode escrever uma longa descrição para o seu repositório com detalhes e tudo mais.<br>
 Esse arquivo possue a extensão md(markdown), que é uma linguagem de marcação de texto<br>
 <br><br>
-Segue o Link para saber mais: <br>[Markdown Guides/Guias de Markdown](https://www.markdownguide.org/basic-syntax)
+Segue o Link para saber mais sobre markdowns: <br>[Markdown Guides/Guias de Markdown](https://www.markdownguide.org/basic-syntax)
 <br><br>
-Agora finalizamos clicando em Create repository/Criar Repositório:<br>
+Depois finalizamos clicando em Create repository/Criar Repositório como na imagem acima:<br>
 <br><br>
 
 
