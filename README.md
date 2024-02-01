@@ -101,9 +101,10 @@ Segue o Link para saber mais sobre markdowns: <br>[Markdown Guides/Guias de Mark
 Depois finalizamos clicando em Create repository/Criar Repositório como na imagem acima:<br>
 <br><br>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
+**Quarto Passo**<br>
+<br>
 Chegamos, finalmente a vez do Git:<br>
 <br>
 
