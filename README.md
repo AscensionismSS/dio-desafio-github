@@ -1,9 +1,13 @@
 # <h1>dio-desafio-git-github</h1>
 Desafio Projeto Git-Github 
+<br>
 
 Para que server o Git e Git Hub?
+<br>
 
-Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenvolvimento a controlar o versionamento de código, rastrear mudanças, colaborar de forma eficiente e garantir que o trabalho em equipe flua sem problemas. Eles são fundamentais para muitos fluxos de trabalho de desenvolvimento de software modernos.
+Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenvolvimento a controlar o versionamento de código, rastrear mudanças, colaborar de forma eficiente e garantir que o trabalho em equipe flua sem problemas. Eles são fundamentais para muitos fluxos de trabalho de desenvolvimento de software modernos.<br>
+<br>
+<br>
 
 Imagens referências utilizando a versão: <strong>Windows 11</strong>.
 
