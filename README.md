@@ -102,7 +102,23 @@ Agora que estamos com o terminal aberto, vamos voltar rapidamente ao nosso githu
 
 Utilizando o terminal para nosso primeiro clone: com o terminal aberto do git vamos digitar o seguinte comando: git clone, clicar com o seguinda botão do mouse e clicar em paste/colar, que é a URL que nós copianos anteriormente do nosso repositório do github na parte de https como mostra na imagens aterior, meu link no caso é este https://github.com/AscensionismSS/dio-desafio-github.git , você irá usar o do seu repositório.<br>
 
-![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/19f770bd-e128-4f0a-b335-dc849cc5f9d9)
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/19f770bd-e128-4f0a-b335-dc849cc5f9d9)<br>
+
+Pronto, agora você fez o clone na sua máquina de forma local, aqui esta ele de forma concluída:<br>
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/0fc79091-8dad-4b37-af16-047a927ece43)<br>
+
+Agora você vai abrir e fechar ou dar uma f5 na pasta escolhida anteriormente, na qual você executou o Guit Bash, e verá que foi criado uma pasta com tudo que você já colocou no seu repositório. Aqui vai a minha =). <br>
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/dee6076d-9598-4ec5-a9ec-6a0d3f9c95fd)<br>
+
+Caso não consiga fazer o ultimo passo e pedir alguma autenticação, aqui está a documentação para fazer de maneira correta, basta seguir os passos:
+
+[Aprender a autenticar https clone](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)
+
+Link para comandos de Git e explicações mais detalhadas: 
+[Git Comandos](https://comandosgit.github.io/)
+ 
+
 
 
 
