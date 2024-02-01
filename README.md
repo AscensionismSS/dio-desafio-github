@@ -78,9 +78,14 @@ Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do githu
 Imagino que você já tenha feito seu login, agora para criar seu primeiro repositório veremos no canto superior direito  um sinal de mais com uma seta, vamos clicar nele e em seguida New Repository/Novo Repositório:<br>
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/25b2cb7f-9af1-459b-9d72-6039cab27923)<br>
+<br>
+<br>
 
 
 Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções:<br>
+<br>
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/6c465db5-e955-46da-8059-421d149f1fe7)<br>
+<br>
 <br>
 Repository name/Nome do repositório: Aqui daremos um nome para nosso repositório.<br>
 <br>
@@ -96,13 +101,11 @@ Segue o Link para saber mais: <br>[Markdown Guides/Guias de Markdown](https://ww
 Agora finalizamos clicando em Create repository/Criar Repositório:<br>
 <br><br>
 
-![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/6c465db5-e955-46da-8059-421d149f1fe7)<br>
-<br>
+
 
 
 Chegamos, finalmente a vez do Git:<br>
 <br>
-
 
 
 Lembra da pasta que criamos lá no começo? Então, agora vamos abrir ela,  quando estivermos dentro dela nós iremos clicar com o botão direito e selecionhar a opção Git Bash Here/Git Bash Aqui:<br>
