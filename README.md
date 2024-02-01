@@ -1,7 +1,7 @@
 # <h1>dio-desafio-git-github</h1>
 Desafio Projeto Git/Github
 
-Imagens referencias utilizando a versão: Windows 11.
+Imagens referências utilizando a versão: <strong>Windows 11</strong>.
 
 Primeiro passo: Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:
 
