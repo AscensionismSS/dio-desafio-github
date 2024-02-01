@@ -1,5 +1,9 @@
 # <h1>dio-desafio-git-github</h1>
-Desafio Projeto Git-Github
+Desafio Projeto Git-Github 
+
+Para que server o Git e Git Hub?
+
+Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenvolvimento a controlar o versionamento de código, rastrear mudanças, colaborar de forma eficiente e garantir que o trabalho em equipe flua sem problemas. Eles são fundamentais para muitos fluxos de trabalho de desenvolvimento de software modernos.
 
 Imagens referências utilizando a versão: <strong>Windows 11</strong>.
 
@@ -111,11 +115,11 @@ Agora você vai abrir e fechar ou dar uma f5 na pasta escolhida anteriormente, n
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/dee6076d-9598-4ec5-a9ec-6a0d3f9c95fd)<br>
 
-Caso não consiga fazer o ultimo passo e pedir alguma autenticação, aqui está a documentação para fazer de maneira correta, basta seguir os passos:
+Caso não consiga fazer o ultímo passo e pedir alguma autenticação, aqui está a documentação para fazer de maneira correta, basta seguir os passos:<br>
 
-[Aprender a autenticar https clone](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)
+[Aprenda a autenticar o https clone](https://docs.github.com/pt/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)
 
-Link para comandos de Git e explicações mais detalhadas: 
+Link para comandos de Git e explicações mais detalhadas: <br>
 [Git Comandos](https://comandosgit.github.io/)
  
 
