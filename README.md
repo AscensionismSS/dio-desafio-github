@@ -1,9 +1,9 @@
 # <h1>dio-desafio-git-github</h1>
-Desafio Projeto Git/Github
+Desafio Projeto Git-Github
 
 Imagens referências utilizando a versão: <strong>Windows 11</strong>.
 
-Primeiro passo: Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:
+<strong>Primeiro passo</strong>: Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:
 
 Pressione o botão direito do mouse aonde você desejar criar sua pasta e selecione New/Novo, em seguida  Folder/Pasta: 
 
@@ -14,7 +14,9 @@ após isso de um nome a sua pasta:
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/87c57abe-2f1f-4d6a-973f-d1a25cd24a99)
 
 
-Segundo passo: Instalando o Git, acesse o link https://git-scm.com/downloads e escolhe a versão correta para qual sistema operacional você esta utilizando.
+
+
+<strong>Segundo passo</strong>: Instalando o Git, acesse o link https://git-scm.com/downloads e escolhe a versão correta para qual sistema operacional você esta utilizando.
 
 Agora vamos descobrir a versão do  Windows que você utiliza, se é 32bits ou 64 bits: 
 
@@ -27,19 +29,45 @@ na sequência irá aparecer uma tela para você com informações sobre computao
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/37fb9cc5-dfc0-440f-af15-de922b44f5b6)
 
 
-Pronto, agora é só escolher a versão que é mais compatível com seu windows e instalar:
+Pronto, agora é só escolher a versão que é mais compatível com seu windows e instalar.
 
 
-abrindo o site https://git-scm.com/download e escolhendo seus sistema operacional, no meu caso windwos 11
+Abrindo o site https://git-scm.com/download e escolhendo seus sistema operacional, no meu caso windwos 11:
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/8f092021-a885-47d0-97cd-b7184528e1ea)
 
 
-versão desejada, no meu caso 64 bits
+versão desejada, no meu caso 64 bits:
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/2313e8ba-e5a3-409d-be67-e5bd9c982f60) 
 
 finalizando o download, é só concluir com a instalação.
+
+
+
+<strong>Terceiro Passo</strong>: Agora que a instalação já foi concluída, vamos ver como utilizar o Git e Git Hub e algumas de suas funcionalidades básicas.
+
+Lembra da pasta que criamos lá no começo? Então, agora vamos abrir ela,  quando estivermos dentro dela nós iremos clicar com o botão direito e selecionhar a opção Git Bash Here/Git Bash Aqui:
+
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/29338d0c-1818-4fd6-bc74-25f094f8de2c)
+
+
+caso não esteja aparecendo, ainda com o botão direito dentro desta pasta seleciona a opção Show More Options/Mostrar mais opções, ai sim você pode seguir o passo anterior:
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/5017fb82-e99a-4785-9b91-b5cc310bb5b4)
+
+Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do github e  dar sequência criando nosso primeiro repositório.
+
+Imagino que você já tenha feito seu login, agora para criar seu primeiro repositório veremos no canto superior direito  um sinal de mais com uma seta, vamos clicar nele e em seguida New Repository/Novo Repositório:
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/9b856677-307a-451b-a9be-4340f3f9c1e5)
+
+agora estamos na nossa tela para criar o repositório, aqui temos algumas opções, primeiro daremos um nome para ele, algo que seja relacionado a nosso projeto, uma breve descrição, vamos escolher se ele será publíco ou não, no caso escolhi público para todo mundo poder ver, e selecionei a opção para ter o readme file, que é aonde você vai fazer a descrição d longa do seu projeto com detalhes.
+
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/4e107419-a5fc-4aff-837d-012f1cd9c40b)
+
 
 
 
