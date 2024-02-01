@@ -2,5 +2,5 @@
 Desafio Projeto Git/Github
 
 
-[Download Git] (https://git-scm.com/downloads) 
+[Download Git] (https://git-scm.com/downloads) <br>
 [Markdown Guides] (https://www.markdownguide.org/basic-syntax)
