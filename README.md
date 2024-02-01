@@ -14,6 +14,7 @@ Imagens referências utilizando a versão: <strong>Windows 11</strong>.<br>
 
 
 **Primeiro passo**:<br>
+<br>
 Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:<br>
 
 Pressione o botão direito do mouse aonde você desejar criar sua pasta e selecione New/Novo, em seguida  Folder/Pasta:<br> 
@@ -25,11 +26,13 @@ após isso de um nome a sua pasta:<br>
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/87c57abe-2f1f-4d6a-973f-d1a25cd24a99)<br>
 <br>
 <br>
+<br>
 
 
 
 
 <strong>Segundo passo</strong>: <br>
+<br>
 Instalando o Git, acesse o link https://git-scm.com/downloads e escolhe a versão correta para qual sistema operacional você esta utilizando.<br>
 
 Agora vamos descobrir a versão do  Windows que você utiliza, se é 32bits ou 64 bits: <br>
@@ -58,10 +61,12 @@ versão desejada, no meu caso 64 bits:<br>
 finalizando o download, é só concluir com a instalação.
 <br>
 <br>
+<br>
 
 
 
 <strong>Terceiro Passo</strong>: <br>
+<br>
 Agora que a instalação já foi concluída, vamos ver como utilizar o Git e Git Hub e algumas de suas funcionalidades básicas.
 <br>
 <br>
