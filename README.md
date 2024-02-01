@@ -11,7 +11,7 @@ Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenv
 
 Imagens referências utilizando a versão: <strong>Windows 11</strong>.
 
-<strong>Primeiro passo</strong>: Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:
+<mark><strong>Primeiro passo</strong></mark>: Crie uma pasta para o repositório em sua maquína com o nome que você deseja, pode ser tanto na area de trabalho ou em meus documentos, aonde você preferir, segue a explicação e imagens abaixo:
 
 Pressione o botão direito do mouse aonde você desejar criar sua pasta e selecione New/Novo, em seguida  Folder/Pasta: 
 
