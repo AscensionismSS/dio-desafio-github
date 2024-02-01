@@ -54,17 +54,27 @@ finalizando o download, é só concluir com a instalação.
 
 
 
-Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do github e  dar sequência criando nosso primeiro repositório.<br>
+Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do github em https://github.com e dar sequência criando nosso primeiro repositório.<br>
 
 Imagino que você já tenha feito seu login, agora para criar seu primeiro repositório veremos no canto superior direito  um sinal de mais com uma seta, vamos clicar nele e em seguida New Repository/Novo Repositório:<br>
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/25b2cb7f-9af1-459b-9d72-6039cab27923)<br>
 
 
-Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções, primeiro daremos um nome para ele, de preferência algo que seja relacionado a nosso projeto, depois uma breve descrição, vamos escolher se ele será publíco ou não, no caso escolhi público para todo mundo poder ver, e selecionei a opção para ter o readme file, que é aonde você vai fazer uma descrição longa e detalhadade seu projeto e depois finalizar clicando em Create repository/Criar Repositório:<br>
-
+Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções:<br>
+Repository name/Nome do repositório: Aqui daremos um nome para nosso projeto.<br>
+Description/Descrição: Uma breve descrição sobre o projeto.<br>
+Public/Publíco ou Private/Privado: vamos escolher se ele será público ou não, no caso escolhi público para todo mundo pode ver, mas apenas eu ou quem eu escolher pode alterá-lo.<br>
+Readme File/Arquivo Leia-me, aqui que você pode escrever uma longa descrição para o seu projeto com detalhes e tudo mais.<br>
+Agora finalizamos clicando em Create repository/Criar Repositório:<br>
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/6c465db5-e955-46da-8059-421d149f1fe7)<br>
+
+
+Chagamos, finalmente a vez do Git:<br>
+
+
+
 
 Lembra da pasta que criamos lá no começo? Então, agora vamos abrir ela,  quando estivermos dentro dela nós iremos clicar com o botão direito e selecionhar a opção Git Bash Here/Git Bash Aqui:<br>
 
