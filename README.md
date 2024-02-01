@@ -9,7 +9,7 @@ Git e o GitHub formam uma combinação poderosa que auxilia as equipes de desenv
 <br>
 <br>
 
-Imagens referências utilizando a versão: <strong>Windows 11</strong>.<br>
+Imagens referênciais utilizando a versão: <strong>Windows 11</strong>.<br>
 <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
