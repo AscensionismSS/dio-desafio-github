@@ -47,6 +47,20 @@ finalizando o download, é só concluir com a instalação.
 
 <strong>Terceiro Passo</strong>: Agora que a instalação já foi concluída, vamos ver como utilizar o Git e Git Hub e algumas de suas funcionalidades básicas.
 
+
+
+Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do github e  dar sequência criando nosso primeiro repositório.
+
+Imagino que você já tenha feito seu login, agora para criar seu primeiro repositório veremos no canto superior direito  um sinal de mais com uma seta, vamos clicar nele e em seguida New Repository/Novo Repositório:
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/25b2cb7f-9af1-459b-9d72-6039cab27923)
+
+
+Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções, primeiro daremos um nome para ele, de preferência algo que seja relacionado a nosso projeto, depois uma breve descrição, vamos escolher se ele será publíco ou não, no caso escolhi público para todo mundo poder ver, e selecionei a opção para ter o readme file, que é aonde você vai fazer uma descrição longa e detalhadade seu projeto e depois finalizar clicando em Create repository/Criar Repositório:
+
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/6c465db5-e955-46da-8059-421d149f1fe7)
+
 Lembra da pasta que criamos lá no começo? Então, agora vamos abrir ela,  quando estivermos dentro dela nós iremos clicar com o botão direito e selecionhar a opção Git Bash Here/Git Bash Aqui:
 
 
@@ -57,16 +71,10 @@ caso não esteja aparecendo, ainda com o botão direito dentro desta pasta selec
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/5017fb82-e99a-4785-9b91-b5cc310bb5b4)
 
-Agora sim, primeiros passos com Git e Github. Vamos acessar nossa conta do github e  dar sequência criando nosso primeiro repositório.
-
-Imagino que você já tenha feito seu login, agora para criar seu primeiro repositório veremos no canto superior direito  um sinal de mais com uma seta, vamos clicar nele e em seguida New Repository/Novo Repositório:
-
-![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/9b856677-307a-451b-a9be-4340f3f9c1e5)
-
-agora estamos na nossa tela para criar o repositório, aqui temos algumas opções, primeiro daremos um nome para ele, algo que seja relacionado a nosso projeto, uma breve descrição, vamos escolher se ele será publíco ou não, no caso escolhi público para todo mundo poder ver, e selecionei a opção para ter o readme file, que é aonde você vai fazer a descrição d longa do seu projeto com detalhes.
 
 
-![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/4e107419-a5fc-4aff-837d-012f1cd9c40b)
+
+
 
 
 
