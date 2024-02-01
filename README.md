@@ -33,7 +33,7 @@ na sequência irá aparecer uma tela para você com informações sobre computao
 Pronto, agora é só escolher a versão que é mais compatível com seu windows e instalar.<br>
 
 
-Abrindo o site https://git-scm.com/download e escolhendo seus sistema operacional, no meu caso windwos 11:
+Abrindo o site https://git-scm.com/download e escolhendo seus sistema operacional, no meu caso Windows 11:
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/8f092021-a885-47d0-97cd-b7184528e1ea)<br>
 
@@ -63,13 +63,15 @@ Imagino que você já tenha feito seu login, agora para criar seu primeiro repos
 
 Agora estamos na nossa tela para criar o repositório, aqui temos algumas opções:<br>
 <br>
-Repository name/Nome do repositório: Aqui daremos um nome para nosso projeto.<br>
+Repository name/Nome do repositório: Aqui daremos um nome para nosso repositório.<br>
 <br>
-Description/Descrição: Uma breve descrição sobre o projeto.<br>
+Description/Descrição: Uma breve descrição sobre o repositório.<br>
 <br>
 Public/Publíco ou Private/Privado: vamos escolher se ele será público ou não, no caso escolhi público para todo mundo pode ver, mas apenas eu ou quem eu escolher pode alterá-lo.<br>
 <br>
-Readme File/Arquivo Leia-me, aqui que você pode escrever uma longa descrição para o seu projeto com detalhes e tudo mais.<br>
+Readme File/Arquivo Leia-me, aqui que você pode escrever uma longa descrição para o seu repositório com detalhes e tudo mais.
+Esse arquivo possue a extensão md(markdown), que é uma linguagem de marcação de texto<br>
+Segue o Link para saber mais: [Markdown Guides/Guias de Markdown](https://www.markdownguide.org/basic-syntax)
 <br>
 Agora finalizamos clicando em Create repository/Criar Repositório:<br>
 <br>
@@ -78,9 +80,8 @@ Agora finalizamos clicando em Create repository/Criar Repositório:<br>
 <br>
 
 
-Chagamos, finalmente a vez do Git:<br>
+Chegamos, finalmente a vez do Git:<br>
 <br>
-
 
 
 
@@ -94,6 +95,14 @@ caso não esteja aparecendo, ainda com o botão direito dentro desta pasta selec
 
 ![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/5017fb82-e99a-4785-9b91-b5cc310bb5b4)<br>
 
+Agora que estamos com o terminal aberto, vamos voltar rapidamente ao nosso github. Dentro do github vamos acessar nosso repositório, e nele vamos clicar na opção code, que esta em verde, depois ir em local e em seguidaclicar  na opção https, e vamos copiar a URL. Esse será o método que vamos usar para clonar nossa repositório para nossa máquina local.<br>
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/1dae7df8-a5fe-4e04-8f6b-b5c502e69742)<br>
+<br>
+
+Utilizando o terminal para nosso primeiro clone: com o terminal aberto do git vamos digitar o seguinte comando: git clone, clicar com o seguinda botão do mouse e clicar em paste/colar, que é a URL que nós copianos anteriormente do nosso repositório do github na parte de https como mostra na imagens aterior, meu link no caso é este https://github.com/AscensionismSS/dio-desafio-github.git , você irá usar o do seu repositório.<br>
+
+![image](https://github.com/AscensionismSS/dio-desafio-github/assets/156155614/19f770bd-e128-4f0a-b335-dc849cc5f9d9)
 
 
 
@@ -110,5 +119,15 @@ caso não esteja aparecendo, ainda com o botão direito dentro desta pasta selec
 
 
 
-[Download Git](https://git-scm.com/downloads)<br>
-[Markdown Guides](https://www.markdownguide.org/basic-syntax)
+
+
+
+
+
+
+
+
+
+
+
+
